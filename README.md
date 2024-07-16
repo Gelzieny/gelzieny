@@ -5,5 +5,5 @@
 ### Linguagens e Tecnologias
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,c,cs,dotnet,docker,babel" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python" />
 </a>
