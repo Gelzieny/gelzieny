@@ -12,3 +12,9 @@
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi,postgres,spring" />
 </a>
+
+### Ferramentas e plataformas
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,linux,npm,yarn,insomnia" />
+</a>
+
