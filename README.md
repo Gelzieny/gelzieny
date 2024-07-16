@@ -7,3 +7,8 @@
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,python" />
 </a>
+
+### Frameworks e bibliotecas
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,oracle,flask,fastapi,postgres" />
+</a>
