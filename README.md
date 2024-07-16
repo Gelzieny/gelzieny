@@ -5,10 +5,10 @@
 ### Linguagens e Tecnologias
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,py" />
 </a>
 
 ### Frameworks e bibliotecas
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,oracle,flask,fastapi,postgres" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi,postgres,spring" />
 </a>
