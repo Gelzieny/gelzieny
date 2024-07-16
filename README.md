@@ -13,7 +13,7 @@
 
 ### Ferramentas e plataformas
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,linux,npm,yarn,insomnia" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,linux,npm,yarn" />
 </a>
 
 
