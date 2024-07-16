@@ -5,7 +5,7 @@
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Student%20Medium-Dark%20Skin%20Tone.png" alt="Woman Student Medium-Dark Skin Tone" width="25" height="25" /> Aprimorando minhas habilidades de desenvolvimento em [Rocketseat](https://app.rocketseat.com.br).
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" alt="Microscope" width="25" height="25" /> Trabalhando em projetos web incríveis em [Vólus](https://www.volus.com.br/).
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wireless.png" alt="Microscope" width="25" height="25" /> Trabalhando em projetos web incríveis em [Vólus](https://www.volus.com.br/).
 
 ### Linguagens e Tecnologias
 
