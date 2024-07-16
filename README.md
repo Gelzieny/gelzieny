@@ -23,6 +23,26 @@
   <img src="https://skillicons.dev/icons?i=git,github,docker,figma,linux,npm,yarn" />
 </a>
 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30" /> Minhas estatísticas do GitHub
+
+<details>
+  <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="25" height="25" /> Nível de envolvimento </summary>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Gelzieny&show_icons=true&theme=radical" alt="GitHub Stats">
+  </p>
+</details>
+<details>
+  <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Sequência do GitHub </summary>
+  <p>
+    <img src="https://streak-stats.demolab.com?user=Gelzieny&theme=radical&hide_border=true&locale=en" alt="GitHub Streak">
+  </p>
+</details>
+<details>
+  <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> Principais Languages </summary>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gelzieny&size_weight=0.5&count_weight=0.5&theme=radical" alt="Top Langs">
+  </p>
+</details>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gelzieny/Gelzieny/output/github-contribution-grid-snake-dark.svg">
